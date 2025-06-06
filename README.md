@@ -1,4 +1,4 @@
-# EcoScan - Sustainable Shopping Assistant
+# EcoScan - Sustainable Shopping Assistant (Flutter APP)
 
 EcoScan is a cross-platform Flutter application designed to help users make eco-conscious shopping decisions. By scanning product barcodes or capturing photos, users can access valuable insights about a product's environmental impact, sustainability rating, and eco-friendly alternatives. Powered by TensorFlow Lite and Firebase, EcoScan combines AI-driven image recognition with real-time sustainability data.
 
