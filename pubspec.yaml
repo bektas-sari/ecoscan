@@ -1,0 +1,44 @@
+name: ecoscan
+description: >-
+  EcoScan is a mobile assistant that helps users evaluate product sustainability
+  by scanning barcodes or taking photos, then analyzing environmental impact scores.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase (v2 uyumlu sürümler)
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.16.0
+  cloud_firestore: ^4.17.5
+
+  # Media & Camera
+  image_picker: ^1.0.7
+  mobile_scanner: ^3.2.0
+
+  # AI
+  tflite_flutter: ^0.10.3
+
+  # State management
+  provider: ^6.1.2
+
+  # HTTP & Utils
+  http: ^0.13.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - tflite/
