@@ -79,6 +79,3 @@ Academia: [https://independent.academia.edu/bektassari](https://independent.acad
 ## 📃 License
 
 This project is licensed under the MIT License.
-
-
-EcoScan is a cross-platform Flutter app that empowers users to make sustainable shopping decisions. By scanning barcodes or capturing product images, it provides real-time data on environmental impact, sustainability scores, and eco-friendly alternatives, powered by AI and Firebase.
